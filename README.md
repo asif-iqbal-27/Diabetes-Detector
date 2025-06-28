@@ -35,8 +35,7 @@ This ML-based solution uses a **Random Forest Classifier** to determine whether 
 * 📈 **Exploratory Data Analysis (EDA)**
   Includes insightful charts and statistics to better understand the dataset and model behavior.
 
-* 🎯 **Awareness-Oriented AI**
-  Aims to support early-stage diabetes awareness through predictive modeling and open-source tools.
+
 
 ---
 
